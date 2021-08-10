@@ -1,0 +1,30 @@
+#winners {
+  text-align: center;
+}
+
+h1, h3 {
+  text-align: center;
+  color:midnightblue;
+}
+
+.list {
+  display: none;
+  color: rgb(255, 8, 8);
+}
+
+button {
+  background-color: green;
+  color: white;
+}
+
+.medal {
+  color: rgb(240, 211, 48);
+  font-weight: bold;
+}
+
+img {
+  width: 80%;
+  height: auto;
+  border: 2px solid rgba(66, 66, 117, 0.233);
+  display: block;
+}

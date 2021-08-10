@@ -2,7 +2,7 @@
 
 #### HTML site using some Javascript and Jquery functions 
 
-#### By Paige Tiedeman
+#### By Paige Tiedeman and Chris Nakayama
 
 ## Technologies Used
 
@@ -10,6 +10,7 @@
 * CSS
 * Javascript
 * JQuery
+* Bootstrap CSS
 
 ## Description
 
@@ -28,7 +29,7 @@ A simple HTML site using newly learned JQuery methods to implement with CSS styl
 ## License
 
 MTI
-Copyright © 2021 Paige Tiedeman
+Copyright © 2021 Paige Tiedeman and Chris Nakayama
 
 ## Contact Information
-Paige Tiedeman paigetiedeman@gmail.com
+Paige Tiedeman paigetiedeman@gmail.com and Chris Nakayama
